@@ -33,9 +33,9 @@ $ pkg install golang
  “`
  “`
 $ pkg install make  
+“
 “`
-“`
-$ git clone https://github.com/Tugce41/scanner-port.git  
+$ git clone https://github.com/Tugce41/scanner-port.git
 “`
 “`
 
