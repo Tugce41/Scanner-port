@@ -25,14 +25,20 @@ Termux'a yükleyin
 “`
 $ pkg update -y && pkg upgrade -y   
 “`
+“`
 $ pkg install git  
+“`
 “`
 $ pkg install golang  
  “`
+ “`
 $ pkg install make  
+“`
 “`
 $ git clone https://github.com/Tugce41/scanner-port.git  
 “`
+“`
+
 $ cd port-scanner  
 “`
 $ make run  
