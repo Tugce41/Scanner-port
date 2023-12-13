@@ -38,8 +38,9 @@ $ pkg install make
 $ git clone https://github.com/Tugce41/scanner-port.git
 “`
 “`
-
+“`
 $ cd port-scanner  
+“`
 “`
 $ make run  
 “`
@@ -50,9 +51,9 @@ $ make run
 Herhangi bir yeri komut olarak kullanın
 Örneğin Linux'ta bir terminal açın ve şu komutu yazın:
 
-nano ~/.profile
+“`nano ~/.profile “`
 
 Şimdi aşağıya doğru kaydırın ve şunu yapıştırın:
 
-export PATH="$PATH:/usr/local/port-scanner/bin"
+“` export PATH="$PATH:/usr/local/port-scanner/bin" “`
 
