@@ -17,7 +17,7 @@ func PrintMotd() {
 	fmt.Print(string(colorBlue), " [>] Version: ")
 	fmt.Println(string(colorReset), "port-scanner v2.3.0")
 	fmt.Print(string(colorCyan), " [>] GitHub:  ")
-	fmt.Println(string(colorReset), "https://github.com/0l1v3rr/port-scanner")
+	fmt.Println(string(colorReset), "https://github.com/Tugce41/scanner-port.git ")
 	fmt.Print(string(colorReset), " [x] Type ")
 	fmt.Print(string(colorYellow), "help")
 	fmt.Println(string(colorReset), "for more.")
@@ -38,7 +38,7 @@ func PrintLogo() {
 	fmt.Println(string(colorCyan), "  ___  ___   _   _  _ _  _ ___ ___ ")
 	fmt.Println(string(colorCyan), " / __|/ __| /_\\ | \\| | \\| | __| _ \\")
 	fmt.Println(string(colorCyan), " \\__ \\ (__ / _ \\| .` | .` | _||   /")
-	fmt.Println(string(colorCyan), " |___/\\___/_/ \\_\\_|\\_|_|\\_|___|_|_\\")
+	fmt.Println(string(colorCyan), " |___/\\___/_/ \\_\\_|\\_|_|\\_|___|_|_\\ by tugce")
 	fmt.Println(string(colorReset), "")
 }
 
